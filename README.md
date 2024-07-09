@@ -1,2 +1,3 @@
 # Cricket_Database_Project
-This project is based on SQL and the data is related to cricket.
+Objective
+The aim of this project is to design and implement a relational database for managing and analyzing cricket match data. The database will store detailed information about players, teams, matches, and their performances, allowing for comprehensive queries and insightful analysis of cricket statistics.
